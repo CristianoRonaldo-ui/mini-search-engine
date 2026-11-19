@@ -1,0 +1,1 @@
+Machine learning lets computers learn patterns from data. A classifier such as Naive Bayes can detect spam messages using TF-IDF features. Model evaluation uses precision, recall, and accuracy.

@@ -1,0 +1,1 @@
+Java is an object-oriented programming language. Java programs use classes, objects, inheritance, and interfaces. Java code is compiled to bytecode and runs on the Java Virtual Machine

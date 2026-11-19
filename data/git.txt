@@ -1,0 +1,1 @@
+Git is a version control system. Developers use commits to save snapshots of code, branches to work on features, and GitHub to share repositories with others.
